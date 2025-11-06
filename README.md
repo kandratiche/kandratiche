@@ -1,4 +1,4 @@
-##💻 Software Engineer
+## 💻 Software Engineer
 
 ## 🛠️ Tech Stack
 React | Node.js | TypeScript | SwiftUI | Tailwind CSS | MongoDB
